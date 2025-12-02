@@ -1,0 +1,7 @@
+C:\Users\markh\OneDrive\Documents\Unreal Projects\Test01\Intermediate\Build\Win64\UE4Editor\Development\Test01\Definitions.Test01.h
+C:\Users\markh\OneDrive\Documents\Unreal Projects\Test01\Source\Test01\Test01GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\markh\OneDrive\Documents\Unreal Projects\Test01\Intermediate\Build\Win64\UE4Editor\Inc\Test01\Test01GameModeBase.generated.h

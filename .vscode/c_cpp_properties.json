@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"name": "Test01Editor Editor Win64 Development (Test01)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\markh\\OneDrive\\Documents\\Unreal Projects\\Test01\\.vscode\\compileCommands_Test01.json"
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\markh\\OneDrive\\Documents\\Unreal Projects\\Test01\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}

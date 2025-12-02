@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Test01-5579.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\markh\OneDrive\Documents\Unreal Projects\Test01\Intermediate\Build\Win64\Test01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\markh\OneDrive\Documents\Unreal Projects\Test01\Intermediate\Build\Win64\UE4Editor\Development\Test01\PlayerCharacter.cpp.obj"
+"C:\Users\markh\OneDrive\Documents\Unreal Projects\Test01\Intermediate\Build\Win64\UE4Editor\Development\Test01\Test01.cpp.obj"
+"C:\Users\markh\OneDrive\Documents\Unreal Projects\Test01\Intermediate\Build\Win64\UE4Editor\Development\Test01\Test01GameModeBase.cpp.obj"
+"C:\Users\markh\OneDrive\Documents\Unreal Projects\Test01\Intermediate\Build\Win64\UE4Editor\Development\Test01\PlayerCharacter.gen.cpp.obj"
+"C:\Users\markh\OneDrive\Documents\Unreal Projects\Test01\Intermediate\Build\Win64\UE4Editor\Development\Test01\Test01.init.gen.cpp.obj"
+"C:\Users\markh\OneDrive\Documents\Unreal Projects\Test01\Intermediate\Build\Win64\UE4Editor\Development\Test01\Test01GameModeBase.gen.cpp.obj"
+"C:\Users\markh\OneDrive\Documents\Unreal Projects\Test01\Intermediate\Build\Win64\UE4Editor\Development\Test01\Default.rc2.res"
+/OUT:"C:\Users\markh\OneDrive\Documents\Unreal Projects\Test01\Intermediate\Build\Win64\UE4Editor\Development\Test01\UE4Editor-Test01-5579.lib"

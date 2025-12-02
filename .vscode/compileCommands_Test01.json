@@ -1,0 +1,37 @@
+[
+	{
+		"file": "C:\\\\Users\\\\markh\\\\OneDrive\\\\Documents\\\\Unreal Projects\\\\Test01\\\\Source\\\\Test01\\\\PlayerCharacter.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\markh\\OneDrive\\Documents\\Unreal Projects\\Test01\\.vscode\\compileCommands_Test01\\Test01.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\markh\\\\OneDrive\\\\Documents\\\\Unreal Projects\\\\Test01\\\\Source\\\\Test01\\\\PlayerCharacter.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\markh\\OneDrive\\Documents\\Unreal Projects\\Test01\\.vscode\\compileCommands_Test01\\Test01.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\markh\\\\OneDrive\\\\Documents\\\\Unreal Projects\\\\Test01\\\\Source\\\\Test01\\\\Test01.Build.cs",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\markh\\OneDrive\\Documents\\Unreal Projects\\Test01\\.vscode\\compileCommands_Test01\\Test01.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\markh\\\\OneDrive\\\\Documents\\\\Unreal Projects\\\\Test01\\\\Source\\\\Test01\\\\Test01.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\markh\\OneDrive\\Documents\\Unreal Projects\\Test01\\.vscode\\compileCommands_Test01\\Test01.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\markh\\\\OneDrive\\\\Documents\\\\Unreal Projects\\\\Test01\\\\Source\\\\Test01\\\\Test01.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\markh\\OneDrive\\Documents\\Unreal Projects\\Test01\\.vscode\\compileCommands_Test01\\Test01.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\markh\\\\OneDrive\\\\Documents\\\\Unreal Projects\\\\Test01\\\\Source\\\\Test01\\\\Test01GameModeBase.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\markh\\OneDrive\\Documents\\Unreal Projects\\Test01\\.vscode\\compileCommands_Test01\\Test01.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\markh\\\\OneDrive\\\\Documents\\\\Unreal Projects\\\\Test01\\\\Source\\\\Test01\\\\Test01GameModeBase.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\markh\\OneDrive\\Documents\\Unreal Projects\\Test01\\.vscode\\compileCommands_Test01\\Test01.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]

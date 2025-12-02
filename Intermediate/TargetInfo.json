@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Test01",
+			"Path": "C:\\Users\\markh\\OneDrive\\Documents\\Unreal Projects\\Test01\\Source\\Test01.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Test01Editor",
+			"Path": "C:\\Users\\markh\\OneDrive\\Documents\\Unreal Projects\\Test01\\Source\\Test01Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
